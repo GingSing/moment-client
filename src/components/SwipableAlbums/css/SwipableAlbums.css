@@ -1,0 +1,15 @@
+#swipable-albums {
+  background-color: #e4ded2;
+}
+
+#swipable-albums > * {
+  color: #8c8e83;
+}
+
+#drag-indicator {
+  background-color: #b79268;
+}
+
+#album-container::-webkit-scrollbar {
+  display: none;
+}
